@@ -8,6 +8,7 @@ Credits:
 
     Icons:
     	Font Awesome (fontawesome.io)
+    	Skill icons (skillicons.dev)
 
     Other:
     	jQuery (jquery.com)
